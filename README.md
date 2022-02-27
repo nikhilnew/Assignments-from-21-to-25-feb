@@ -18,8 +18,9 @@
 
 #Dribbble:https://nikhilnew.github.io/Dribbble.github.io/
 
-#25_feb Program:
+#25_feb hosted url
 
-Q.1 Write a function which takes an input and returns true / false whether it is palindrome or not.
+#1. https://nikhilnew.github.io/25feb1.github.io/
 
-Q.2 Write a program to take 2 inputs and check whether they are anagram or not. Return true or false. -> fried / fired -> silent / listen -> race / care -> heart / earth -> eat / tea -> abcd / cdba -> abaa / aaab -> earn / near -> earth / mercury x -> abab / abcd x
+#2. https://nikhilnew.github.io/25feb2.github.io/
+
