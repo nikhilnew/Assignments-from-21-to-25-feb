@@ -10,7 +10,8 @@
 
 #23_feb hosted url
 
-#Login-Registration:https://nikhilnew.github.io/LoginRegistration.github.io/
+#Login:https://nikhilnew.github.io/LoginRegistration.github.io/
+#Registration:https://nikhilnew.github.io/LoginRegistration.github.io/reg.html
 
 #24_feb hosted url
 
